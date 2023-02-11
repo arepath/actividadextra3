@@ -1,2 +1,5 @@
 # actividadextra3
-Aquí se alojaran los resúmenes de las unidades 1, 2
+Estuarth Gonzalez, 23000349
+
+
+Se eligio la licencia MIT por ser la mas versatil en relacion a compatibilidad y uso, tambien es una de las mas comunes en proyectos opensource
