@@ -1,5 +1,8 @@
-# actividadextra3
+# actividadextra3 unidad 1
 Estuarth Gonzalez, 23000349
 
 
-Se eligio la licencia MIT por ser la mas versatil en relacion a compatibilidad y uso, tambien es una de las mas comunes en proyectos opensource
+En esta rama se incluye un documento que describle la unidad uno, los temas son los siguientes
+- Sistema binario
+- Lógica
+- Programación
